@@ -1,0 +1,4 @@
+My Planning in 2022
+- learn web development full stack
+- build restfull API
+- learn react native

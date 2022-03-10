@@ -2,3 +2,5 @@ My Planning in 2022
 - learn web development full stack
 - build restfull API
 - learn react native
+- make machine learning
+- make some web app or startup

@@ -2,7 +2,8 @@ My Planning in 2022
 - web development full stack
 - build restfull API
 - learn react native
-- make machine learning
+- Ai
 - make some web app or startup
 - free lance
+- python
 - ui / ux

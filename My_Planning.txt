@@ -7,3 +7,4 @@ My Planning in 2022
 - free lance
 - ui / ux
 - Framework bootstrap
+- python

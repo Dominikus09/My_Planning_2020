@@ -6,3 +6,5 @@ My Planning in 2022
 - make some web app or startup
 - free lance
 - ui / ux
+- Framework bootstrap
+- python
